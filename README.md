@@ -10,4 +10,4 @@ I'm aiming for a modern website vibe, and to help with the layout, we're getting
 And for that extra touch, we're bringing in the big guns – "Swiper.JS" library is joining the party for those sleek slides. So, buckle up, by the end of this, I'll be a pro at crafting websites that not only look good but are also super responsive and dynamic.
 
 - Jethro E. Garchitorena
-  'February 2, 2024'
+- February 28, 2024
