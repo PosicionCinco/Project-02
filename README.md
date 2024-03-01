@@ -1,7 +1,7 @@
 # Project-02
 Responsive Photography Portfolio Website (HTML, CSS, and JavaScript)
 
-- NOTE FOR MY SELF -
+- NOTE FOR MY SELF:
 
 - By the conclusion of this project, I will possess the expertise to design sophisticated and fully responsive websites. Delving into the intricacies of "CSS Media Queries" and utilizing versatile "CSS Units" such as rem, %, vh, and vw, I will ensure a visually appealing 
    and adaptable design across all devices. 
