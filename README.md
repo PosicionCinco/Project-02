@@ -1,13 +1,18 @@
 # Project-02
-Responsive Photography Portfolio Website (HTML, CSS, and JavaScript)
+Responsive Photography Portfolio Website (HTML, CSS, & JavaScript)
 
-<! -- NOTE FOR MY SELF -- >
+- NOTE FOR MY SELF:
 
-Alright, so by the end of this project, I'm gonna know how to design a slick, fully responsive website. We're diving into the world of "CSS Media Queries" and mixing it up with some nifty "CSS Units" like rem, %, vh, and vw to make sure our design looks good on any device. And hey, we're not stopping there - we're spicing things up with "CSS Transitions and CSS Keyframes" for some cool animations.
+- By the conclusion of this project, I will possess the expertise to design sophisticated and fully responsive websites. Delving into the intricacies of "CSS Media Queries" and utilizing versatile "CSS Units" such as rem, %, vh, and vw, I will ensure a visually appealing 
+   and adaptable design across all devices. 
 
-I'm aiming for a modern website vibe, and to help with the layout, we're getting cozy with "CSS Flexbox." But wait, there's more! The "CSS Grid System" is gonna be our secret weapon for effortlessly aligning elements. Oh, and did I mention the magic of "CSS Variables" for easy customization? It's like having a secret toolkit.
+- Elevating the aesthetic further, I'll incorporate "CSS Transitions and CSS Keyframes" for engaging animations, cultivating a modern and dynamic website vibe.
 
-And for that extra touch, we're bringing in the big guns – "Swiper.JS" library is joining the party for those sleek slides. So, buckle up, by the end of this, I'll be a pro at crafting websites that not only look good but are also super responsive and dynamic.
+- To refine the layout, I'll harness the power of "CSS Flexbox" for seamless alignment and introduce the formidable "CSS Grid System" as a strategic tool for effortless element arrangement. Adding a layer of customization, "CSS Variables" will be employed for streamlined 
+   adjustments and design personalization. 
+
+- As a finishing touch, the inclusion of the "Swiper.JS" library will infuse sleek slides for a polished and professional user experience. In essence, this journey will equip me to craft websites that not only boast a contemporary aesthetic but also boast unparalleled   
+   responsiveness and dynamic functionality.
 
 - Jethro E. Garchitorena
 - February 28, 2024
