@@ -32,7 +32,7 @@ var swiper = new Swiper(".mySwiper", {
     }
   });
 
-  const nav = documet.querySelector('.nav__links');
+  const nav = document.querySelector('.nav__links');
   const openNavBtn = document.querySelector('#nav__toggle-open');
   const closeNavBtn = document.querySelector('#nav__toggle-close');
 
